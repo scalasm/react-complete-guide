@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is a course project work done as part of [React the Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux) course - nothing fancy, I will use it for practice and reference!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
