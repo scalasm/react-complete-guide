@@ -5,7 +5,7 @@ import "./Card.css";
  * @param {*} props
  * @returns
  */
-function Card(props) {
+const Card = (props) => {
   // Ensure that clients can specify additional style classes that
   // we combine with the default card class.
   const classes = "card " + props.className;
